@@ -1,0 +1,23 @@
+{
+  "name": "eastereggs",
+  "version": "1.0.0",
+  "description": "easter eggs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uusratna/eastereggs.git"
+  },
+  "keywords": [
+    "easter",
+    "eggs"
+  ],
+  "author": "uus ratna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uusratna/eastereggs/issues"
+  },
+  "homepage": "https://github.com/uusratna/eastereggs#readme"
+}
